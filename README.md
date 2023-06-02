@@ -20,6 +20,7 @@ To Modify the Addons or view the Source Code, unzip the `.mcpack` File.
 
 # To-Do:
 - Add literally all the Mods
+- Change Chalk Icon to Modpack Icon
 
 # Licensing
 This Mod is published under the GPLv3.
